@@ -1,0 +1,5 @@
+train_data,eval_data,test_accuracy
+original,original,0.9688
+original,masked,0.7688
+masked,original,0.3563
+masked,masked,0.9187

@@ -1,0 +1,4 @@
+segmenter,seg_foreground_iou,seg_foreground_dice,seg_both_class_mean_iou,pipeline_accuracy
+DeepLabV3-ResNet50,0.623,0.7565,0.7507,0.8438
+"U-Net (custom, from scratch)",0.6646,0.7844,0.7926,0.7875
+"U-Net (crop-aligned, DeepLabV3-style preprocessing)",0.6674,0.7827,0.7753,0.8938

@@ -1,0 +1,16 @@
+[
+  {
+    "segmenter": "DeepLabV3-ResNet50",
+    "seg_foreground_iou": 0.623,
+    "seg_foreground_dice": 0.7565,
+    "seg_both_class_mean_iou": 0.7507,
+    "pipeline_accuracy": 0.8438
+  },
+  {
+    "segmenter": "U-Net (custom, from scratch)",
+    "seg_foreground_iou": 0.6646,
+    "seg_foreground_dice": 0.7844,
+    "seg_both_class_mean_iou": 0.7926,
+    "pipeline_accuracy": 0.7875
+  }
+]
